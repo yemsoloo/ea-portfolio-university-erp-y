@@ -1,7 +1,7 @@
 # ea-portfolio-university-erp-y - Yemisi O.
 Enterprise Architecture Portfolio based on eSkooly Pro ERP Implementation for a 7-Campus SADC Private University | EA Learner | 2026
 
-I am part of a team managing a cloud-based ERP platform at a SADC university. I am documenting my learning and real-world system challenges using a fictitious scenario as I transition into a professional Enterprise Architecture (EA) role.
+Currently exploring a cloud-based ERP platform at a SADC university. I am documenting my learning and real-world system challenges using a fictitious scenario as I transition into a professional Enterprise Architecture (EA) role.
 
 ---
 
